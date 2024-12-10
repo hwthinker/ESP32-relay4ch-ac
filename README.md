@@ -31,6 +31,13 @@
 Warning:❗⚠️
 Aktifkan daya untuk menghidupkan alat hanya dengan satu jenis sumber daya, bisa 9VDC, 5VDC, atau AC220V. Jangan menghubungkan beberapa sumber daya secara bersamaan, karena akan menyebabkan kerusakan pada alat.
 
+> [!NOTE]
+>
+> Untuk serial disarankan menggunakan serial auto download
+>
+> - https://tokopedia.link/Ml3NIixX6Mb atau
+> -  https://shopee.co.id/product/21375728/27056587756/ 
+
 
 
 # Cara install plugin Arduino IDE
