@@ -3,7 +3,7 @@
 
 
 ## Cara download dengan Serial USB biasa
-![2](./assets/2.png)
+![2](./assets/3.png)
 - Pasang serial USB TTL dengan ketentuan: 
    - TX -> RX USB Serial (Kabel Putih)
    - RX -> TX USB Serial (Kabel Hijau)
@@ -18,7 +18,7 @@
 
 
 ## Cara download dengan Serial USB auto Download
-![3](./assets/3.png)
+![3](./assets/2.png)
 - Pasang serial USB TTL dengan ketentuan:
     - RX -> RX USB Serial  
     - TX -> TX USB Serial 
