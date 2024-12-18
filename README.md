@@ -106,9 +106,7 @@ void loop() {
 
 ## Cara Upload dengan Serial USB biasa
 
-![2](./assets/3.png)
-
-- Pasang serial USB TTL dengan ketentuan: 
+- ![image-20241218075913341](./assets/image-20241218075913341.png)Pasang serial USB TTL dengan ketentuan: 
   - TX -> RX USB Serial (Kabel Putih)
   - RX -> TX USB Serial (Kabel Hijau)
   - GND -> GND USB Serial (Kabel Hitam)
