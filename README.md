@@ -137,7 +137,7 @@ Aktifkan daya untuk menghidupkan alat hanya dengan satu jenis sumber daya, bisa 
 
 > [!NOTE]
 > Untuk serial disarankan menggunakan serial auto download
-> - https://tokopedia.link/Ml3NIixX6Mb atau
+> - https://tokopedia.link/KbEeomXRMPb atau
 > - https://shopee.co.id/product/21375728/27056587756/ 
 
 
